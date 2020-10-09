@@ -1,6 +1,6 @@
 {
   "name": "PiNetwork",
-  "logoURI": "https://github.com/fangyaoyu/pinetwork/blob/master/logo.png",
+  "logoURI": "https://raw.githubusercontent.com/fangyaoyu/pinetwork/master/logo.png",
   "keywords": [
     "Pi",
     "Pi Network",
@@ -14,7 +14,7 @@
       "name": "PiNetwork",
       "symbol": "PI",
       "decimals": 18,
-      "logoURI": "https://github.com/fangyaoyu/pinetwork/blob/master/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/fangyaoyu/pinetwork/master/logo.png"
     }
   ],
   "version": {
