@@ -1,0 +1,25 @@
+{
+  "name": "Pi Network",
+  "logoURI": "https://www.xxxxxxxxxxxx/logo.png",
+  "keywords": [
+    "Pi",
+    "Pi Network",
+    "PiNetwork"
+  ],
+  "timestamp": "2020-10-09T01:40:34.305Z",
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0x000000000000000000000000000000",
+      "name": "PiNetwork",
+      "symbol": "PI",
+      "decimals": 18,
+      "logoURI": "https://www.xxxxxxxxxxxx/logo.png"
+    }
+  ],
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 0
+  }
+}
