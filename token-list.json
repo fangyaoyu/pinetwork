@@ -1,6 +1,6 @@
 {
-  "name": "Pi Network",
-  "logoURI": "https://www.xxxxxxxxxxxx/logo.png",
+  "name": "PiNetwork",
+  "logoURI": "https://github.com/fangyaoyu/pinetwork/blob/master/logo.png",
   "keywords": [
     "Pi",
     "Pi Network",
@@ -10,11 +10,11 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x000000000000000000000000000000",
+      "address": "0x93ff750e49a62feae19ae1ed56388c9972d1c279",
       "name": "PiNetwork",
       "symbol": "PI",
       "decimals": 18,
-      "logoURI": "https://www.xxxxxxxxxxxx/logo.png"
+      "logoURI": "https://github.com/fangyaoyu/pinetwork/blob/master/logo.png"
     }
   ],
   "version": {
